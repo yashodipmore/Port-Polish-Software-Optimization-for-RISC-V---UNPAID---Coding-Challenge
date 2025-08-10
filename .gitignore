@@ -1,0 +1,50 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Benchmark result files (optional - you might want to include these)
+results/
+*.csv
+*.json
+
+# Editor backup files
+*~
+*.bak
+*.backup
